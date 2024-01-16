@@ -10,7 +10,7 @@ export default {
           imageUrl: 'api',
           status: 'My personal website api, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'ExpressJS, HTML',
-          github: null,
+          github: 'null',
           demo: 'https://api.xvannn07.xyz/'
         }
       ]
