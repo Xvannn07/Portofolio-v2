@@ -6,7 +6,7 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
+          name: 'Personal Website Api',
           imageUrl: 'api',
           status: 'My personal website api, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'ExpressJS, HTML',
