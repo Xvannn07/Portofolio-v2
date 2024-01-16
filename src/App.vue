@@ -10,8 +10,6 @@
         </button>
         <div class="flex md:order-2 fadein-bot">
           <a href="https://github.com/xvannn07"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
-        </div>
-        <div class="flex md:order-2 fadein-bot">
           <a href="https://wa.me/6281775469662"><img class="w-9 rounded-full" src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" alt="whatsapp"></a>
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
