@@ -16,6 +16,9 @@
             <li>
               <a class="fadein-2" href="https://t.me/@Xvannn07" target="_blank"><img class="w-9 rounded-full" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="telegram"></a>
             </li>
+            <li>
+              <a class="fadein-2" href="https://t.me/@Xvannn07" target="_blank"><img class="w-9 rounded-full" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram"></a>
+            </li>
           </ul>
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
