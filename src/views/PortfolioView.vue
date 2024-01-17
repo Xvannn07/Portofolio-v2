@@ -12,6 +12,15 @@ export default {
           tech: 'ExpressJS, HTML',
           github: 'null',
           demo: 'https://api.xvannn07.xyz/'
+        },
+        {
+          id: 2,
+          name: 'Uploader Website',
+          imageUrl: 'upload',
+          status: 'upload my website, I created this website to display providing image to URL conversion tools, of course I use my skills and projects. As well as a place for me to try new technology.',
+          tech: 'ExpressJS, HTML, EJS',
+          github: 'null',
+          demo: 'https://upload.xvannn07.xyz/'
         }
       ]
     };
