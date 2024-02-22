@@ -104,12 +104,13 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Khrisna Ari. I am just a student who focuses on education. 
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Khrisna Ari Dwi Payana. I am just a student who focuses on education. 
             I just want to need the right calm, and want to focus on the outside world so I can achieve what I 
             want like friends and partners
           </p>
           <p class="mb-3 md:mb-7 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; thanks to Bagas Rakha (template maker),
+            &nbsp; &nbsp; &nbsp; i studied at school smkn 3 singaraja located in bali i majorated in networking and information thechnology.
+            thanks to Bagas Rakha (template maker),
             I just changed some code name
           </p>
         </div>
