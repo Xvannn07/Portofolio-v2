@@ -104,9 +104,9 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Khrisna Ari Dwi Payana. I am just a student who focuses on education. 
-            I just want to need the right calm, and want to focus on the outside world so I can achieve what I 
-            want like friends and partners
+            &nbsp; &nbsp; &nbsp; Hello everyone!! my name is made khrisna ari dwi payana, i live in bali as an ordinary resident. 
+            I am just a student who focuses on education and learning so that I can focus on the outside world, 
+            and can achieve what I want such as friends, a partner, and my own success.
           </p>
           <p class="mb-3 md:mb-7 fadein-left fadeins-2">
             &nbsp; &nbsp; &nbsp; i studied at school smkn 3 singaraja located in bali i majorated in networking and information thechnology.
