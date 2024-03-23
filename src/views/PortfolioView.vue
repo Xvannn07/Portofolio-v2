@@ -21,7 +21,16 @@ export default {
           tech: 'ExpressJS, HTML, EJS',
           github: 'null',
           demo: 'https://upload.xvannn07.xyz/'
-        }
+        },
+        {
+          id: 3,
+          name: 'ChatGPT Website',
+          imageUrl: 'chatgpt',
+          status: 'I created a chatgpt project called XvanzAi, this will help you in carrying out your assignments and work.',
+          tech: 'ExpressJS, HTML, EJS',
+          github: 'null',
+          demo: 'https://chatgpt.xvannn07.xyz/'
+        },
       ]
     };
   }
