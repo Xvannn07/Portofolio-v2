@@ -29,7 +29,25 @@ export default {
           status: 'I created a chatgpt project called XvanzAi, this will help you in carrying out your assignments and work.',
           tech: 'ExpressJS, HTML, EJS',
           github: 'null',
-          demo: 'https://chatgpt.xvannn07.xyz/'
+          demo: 'https://chatgpt.xvannn.xyz/'
+        },
+        {
+          id: 4,
+          name: 'Youtube Downloader Website',
+          imageUrl: 'youtube',
+          status: 'This is a YouTube downloader website, useful for downloading videos or audio with different resolutions, you can download as many videos as you like without being charged a penny!!',
+          tech: 'ExpressJS, HTML, EJS, JavaScript',
+          github: 'https://github.com/xvannn07/youtube-dl',
+          demo: 'https://youtube.xvannn.xyz/'
+        },
+        {
+          id: 5,
+          name: 'Upscaler Website',
+          imageUrl: 'upscaler',
+          status: 'This is an upscaler tools website, which is useful for removing blur points in images so that the image quality is very good. You can use this website without a penny.',
+          tech: 'ExpressJS, HTML, EJS, JavaScript',
+          github: 'null',
+          demo: 'https://upscaler.xvannn.xyz/'
         },
       ]
     };
