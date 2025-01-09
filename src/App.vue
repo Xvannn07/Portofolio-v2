@@ -100,14 +100,6 @@ body {
   height: 100vh;
 }
 
-.flex-col li {
-    margin-right: 16px; /* Menambahkan jarak antar elemen */
-}
-
-.flex-col li:last-child {
-    margin-right: 0; /* Menghapus margin pada elemen terakhir */
-}
-
 nav {
   padding: 30px;
 }
