@@ -49,6 +49,15 @@ export default {
           github: 'null',
           demo: 'https://upscaler.xvannn.xyz/'
         },
+        {
+          id: 6,
+          name: 'Tiktok Downloader',
+          imageUrl: 'tiktok',
+          status: 'The TikTok downloader website is a tool used to download videos and audio on TikTok via a link, you can use this tool as much as you like without limits.',
+          tech: 'ExpressJS, HTML, EJS, Javascript',
+          github: 'https://github.com/xvannn07/tiktok-downloader',
+          demo: 'https://tiktok.xvannn.xyz'
+        },
       ]
     };
   }
