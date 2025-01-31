@@ -29,7 +29,7 @@ export default {
           status: 'I created a chatgpt project called XvanzAi, this will help you in carrying out your assignments and work.',
           tech: 'ExpressJS, HTML, EJS',
           github: 'null',
-          demo: 'https://chatgpt.xvannn.xyz/'
+          demo: 'https://chat.xvannn.xyz/'
         },
         {
           id: 4,
