@@ -109,7 +109,7 @@ export default {
             and can achieve what I want such as friends, a partner, and my own success.
           </p>
           <p class="mb-3 md:mb-7 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; i studied at school smkn 3 singaraja located in bali i majorated in networking and information thechnology.
+            &nbsp; &nbsp; &nbsp; i studied at to school smkn 3 singaraja located in bali i majorated in networking and information thechnology.
             thanks to Bagas Rakha (template maker),
             I just changed some code name
           </p>
