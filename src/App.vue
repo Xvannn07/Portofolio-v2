@@ -9,7 +9,7 @@
           <span class="self-center text-lg text-[#ffdb70] font-semibold whitespace-nowrap fadein-bot hover:text-amber-100">Khrisna</span>
         </button>
         <div class="flex md:order-2 fadein-bot">
-          <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
+          <ul class="flex-col md:flex-row flex md:space-x-8 space-x-4 mt-4 md:mt-0 md:text-sm md:font-medium">
             <li>
               <a class="fadein-1" href="https://github.com/xvannn07" target="_blank"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
             </li>
