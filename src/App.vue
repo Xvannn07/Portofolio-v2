@@ -11,10 +11,10 @@
         <div class="flex md:order-2 fadein-bot">
           <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
             <li>
-              <a class="fadein-1" href="https://github.com/xvannn07" target="_blank"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
+              <a class="fadein-1" href="https://github.com/xvannn07" target="_blank"><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" alt="github"></a>
             </li>
             <li>
-              <a class="fadein-2" href="https://t.me/Xvannn07" target="_blank"><img class="w-9 rounded-full" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="telegram"></a>
+              <a class="fadein-2" href="https://t.me/Xvannn07" target="_blank"><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="telegram"></a>
             </li>
             <li>
               <a class="fadein-2" href="https://instagram.com/Xvannn07" target="_blank"><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="instagram"></a>
